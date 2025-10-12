@@ -56,4 +56,7 @@ Vous pouvez proposer des améliorations via issues ou pull requests.
 - [Twitter Poseidon](https://twitter.com/psdnai)  
 - [Litepaper](lien_vers_le_pdf)  
 
----
+Poseidon – Bringing Data Economies Onchain
+
+Présentation
+Poseidon transforme la manière dont les données d’entraînement IA sont créées et partagées. Plutôt que de s’appuyer sur des données web publiques ou synthétiques, Poseidon permet à n’importe qui de contribuer à des campagnes de collecte (audio, vidéo, robotique, santé, etc.) tout en conservant la provenance et les droits via Story Protocol.
